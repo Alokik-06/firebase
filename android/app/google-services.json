@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "779803631157",
+    "firebase_url": "https://trainee-firebase-46854-default-rtdb.firebaseio.com",
+    "project_id": "trainee-firebase-46854",
+    "storage_bucket": "trainee-firebase-46854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779803631157:android:511bc107bb6d9b6fb01b7c",
+        "android_client_info": {
+          "package_name": "com.example.trainee_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwbjF7poX6QpQTKWB3KjqxllUgZCJs_Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
